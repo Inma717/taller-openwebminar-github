@@ -8,11 +8,8 @@ Descripción del taller de openWebminar de GitHub
 * lista3
 * lista4
 * lista5
-<<<<<<< Updated upstream
-=======
 * lista6
 
 # Haciendo la segunda prueba
 
 # Haciendo la tercera prueba, desde rama local en mi PC a GITHUB.
->>>>>>> Stashed changes
