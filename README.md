@@ -8,3 +8,6 @@ Descripción del taller de openWebminar de GitHub
 * lista3
 * lista4
 * lista5
+* lista6
+
+# Haciendo la segunda prueba
