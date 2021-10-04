@@ -3,7 +3,7 @@ Descripción del taller de openWebminar de GitHub
 
 # Esto es un elemento del taller
 
-* lista1444
+* lista1111
 * lista2
 * lista3
 * lista4
