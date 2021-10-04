@@ -17,6 +17,7 @@ Descripción del taller de openWebminar de GitHub
 # Haciendo la 4ª prueba, desde rama local en mi PC a GITHUB.
 
 # Haciendo la 5ª 6a prueba, desde rama local en mi PC a GITHUB.
+<<<<<<< HEAD
 
 # Haciendo la 7ª prueba...
 
@@ -28,3 +29,5 @@ Descripción del taller de openWebminar de GitHub
 
 
 
+=======
+>>>>>>> parent of f6abd78 (Merge pull request #3 from Inma717/rama-local)
